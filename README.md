@@ -1,1 +1,1 @@
-This is my first repository
+I'm Getting Started with GIT 
